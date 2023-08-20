@@ -1,2 +1,2 @@
-## This is work in progress ... :books: :man_technologist: 
+## This is work in progress ... :man_technologist: :books:
 
