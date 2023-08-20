@@ -7,11 +7,11 @@ main:
   - title: "CV"
     url: /files/BuelentUendes_CV.pdf
 
-  # - title: "Publications"
-  #   url: /publications/
-
   - title: "Teaching"
     url: /teaching/  
+    
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "CV"
   #   url: /cv/
