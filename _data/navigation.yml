@@ -2,6 +2,7 @@
 main:
 
   - title: "Publications"
+    Work in progress ... :books: 
     url: /publications/
 
   - title: "CV"
@@ -9,7 +10,7 @@ main:
 
   - title: "Teaching"
     url: /teaching/  
-    
+
   # - title: "Publications"
   #   url: /publications/
 
