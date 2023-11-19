@@ -2,9 +2,9 @@
 title: "Machine Learning and Reasoning for Health"
 collection: teaching
 type: "Master AI course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/machine_learning_health
 venue: "Vrije Universiteit Amsterdam, Computer Science Department"
-date: 2014-01-01
+date: 2023-31-10
 location: "Amsterdam, the Netherlands"
 ---
 
