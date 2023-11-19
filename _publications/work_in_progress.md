@@ -8,6 +8,6 @@ permalink: /publications/
 location: "Amsterdam, the Netherlands"
 ---
 
-This is is still work in progress 📚 🧑‍💻
+Still work in progress 📚 🧑‍💻
 
 
