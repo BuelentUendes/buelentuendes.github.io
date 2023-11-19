@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Machine Learning and Reasoning for Health"
 collection: teaching
-type: "Undergraduate course"
+type: "Master AI course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Vrije Universiteit Amsterdam, Computer Science Department"
 date: 2014-01-01
-location: "City, Country"
+location: "Amsterdam, the Netherlands"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Conceptualized the course content, involved in evaluation of the final course project.
+Furthermore, supervised the practical tutorials where students get the chance to work with real medical data made available by the Amsterdam UMC. 
+Lastly, I give a lecture discussing uncertainty quantification and advanced XAI methods especially relevant for applications in the health domain.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The course description can be downloaded [here](https://studiegids.vu.nl/en/Master/2023-2024/artificial-intelligence/XM_0102#/).
