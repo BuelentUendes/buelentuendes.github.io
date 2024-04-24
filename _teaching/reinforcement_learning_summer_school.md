@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop Summer School"
 permalink: /teaching/reinforcement_learning
 venue: "Vrije Universiteit Amsterdam, Computer Science Department"
-date: 2022-07-11 - 2022-07-15
+date: "2022-07-11 - 2022-07-15"
 location: "Amsterdam, the Netherlands"
 ---
 

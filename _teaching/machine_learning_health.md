@@ -4,7 +4,7 @@ collection: teaching
 type: "Master AI course"
 permalink: /teaching/machine_learning_health
 venue: "Vrije Universiteit Amsterdam, Computer Science Department"
-date: 2023-10-31 - 2023-12-23
+date: "2023-10-31 - 2023-12-23"
 location: "Amsterdam, the Netherlands"
 ---
 
