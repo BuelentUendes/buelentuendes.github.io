@@ -11,4 +11,4 @@ location: "Amsterdam, the Netherlands"
 I prepared and conducted a workshop on "Deep Reinforcement Learning" during the first edition of the Reinforcement Learning summer school 2022.
 
 The schedule of the summer school is available [here](https://2022.rlsummerschool.com/).
-The public repo can be found [here](https://github.com/VinF/practical_sessions_RL).
+The public repository can be found [here](https://github.com/VinF/practical_sessions_RL).
