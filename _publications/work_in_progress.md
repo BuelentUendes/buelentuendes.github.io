@@ -1,5 +1,5 @@
 ---
-title: "Work in progress"
+title: "Published Papers 📚"
 collection: publications
 type: "publications"
 permalink: /publications/
@@ -8,9 +8,11 @@ permalink: /publications/
 location: "Amsterdam, the Netherlands"
 ---
 
-## Published Papers 📚
+---
 
-### 2025
+## 2025
+
+---
 
 **Start Smart: Leveraging Gradients For Enhancing Mask-based XAI Methods**  
 *International Conference on Learning Representations (ICLR)*
@@ -19,6 +21,7 @@ location: "Amsterdam, the Netherlands"
 [[Paper]](https://openreview.net/forum?id=Iht4NNVqk0&noteId=Iht4NNVqk0) 
 <!-- [[Code]](link_to_code) [[Blog]](link_to_blog) [[Video]](link_to_video) -->
 
+**Summary:**
 *A novel gradient-based initialization technique for mask-based XAI methods that improves optimization speed and performance across various state-of-the-art approaches.*
 
 ---
