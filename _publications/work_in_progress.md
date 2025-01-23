@@ -10,12 +10,8 @@ location: "Amsterdam, the Netherlands"
 
 ---
 
-## 2025
-
----
-
 **Start Smart: Leveraging Gradients For Enhancing Mask-based XAI Methods**  
-*International Conference on Learning Representations (ICLR)*
+*International Conference on Learning Representations (ICLR, 2025)*
 
 **Authors:** **Buelent Uendes**, Shujian Yu, Mark Hoogendoorn  
 [[Paper]](https://openreview.net/forum?id=Iht4NNVqk0&noteId=Iht4NNVqk0) 
