@@ -18,7 +18,7 @@ location: "Amsterdam, the Netherlands"
 <!-- [[Code]](link_to_code) [[Blog]](link_to_blog) [[Video]](link_to_video) -->
 
 **Summary:**
-*A novel gradient-based initialization technique for mask-based XAI methods that improves optimization speed and performance across various state-of-the-art approaches.*
+*A novel gradient-based initialization technique for mask-based XAI methods called StartGrad that improves optimization speed and performance across various state-of-the-art approaches.*
 
 ---
 
