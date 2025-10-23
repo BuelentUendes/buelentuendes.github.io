@@ -15,6 +15,8 @@ related to trustworthy AI, efficient deep learning and probabilistic machine lea
 
 **News**
 
+* **October 2025** I will be joining EurIPS and will present at the ELLIS UnConference upcoming December. See you in Denmark! 🇩🇰️    
+
 * **February 2025** I will be joining the ELLIS Winter school on Foundation Models next month in Amsterdam 📚🇳🇱✨
 
 * **January 2025** My first paper got accepted at ICLR 2025! See you in Singapore! 🇸🇬 🎊
