@@ -14,8 +14,10 @@ location: "Amsterdam, the Netherlands"
 Mark Hoogendoorn  
 · *J Med Internet Res (fourthcoming)* · [Paper](https://github.com/BuelentUendes/Stress_Detection_ECG) · [Code](https://github.com/BuelentUendes/Stress_Detection_ECG)
 
-We evaluate ML-based mental stress detection using 127 participants across multiple conditions, 
-testing (1) discrimination against a composite no-stress baseline, (2) generalization to unseen stressors and participants, and (3) robustness under reduced sampling rates and number of features for wearable settings.
+We evaluate ML-based mental stress detection using 127 participants across multiple conditions, testing:
+- discrimination against a composite no-stress baseline, 
+- generalization to unseen stressors and participants, 
+- robustness under reduced sampling rates and number of features for wearable settings.
 
 ---
 
