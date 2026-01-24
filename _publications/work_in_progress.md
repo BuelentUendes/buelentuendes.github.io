@@ -20,7 +20,7 @@ We evaluate ML-based mental stress detection using 127 participants across multi
 
 ### Start Smart: Leveraging Gradients For Enhancing Mask-based XAI Methods
 **_Buelent Uendes_**, Shujian Yu, Mark Hoogendoorn  
-· *ICLR 2025* · [Paper](https://...) · [Code](https://github.com/...)
+· *ICLR 2025* · [Paper](https://openreview.net/pdf?id=Iht4NNVqk0) · [Code](https://github.com/BuelentUendes/StartGrad?tab=readme-ov-file)
 
 A novel gradient-based initialization technique for mask-based XAI methods called StartGrad that improves optimization speed and performance across various state-of-the-art approaches.
 
