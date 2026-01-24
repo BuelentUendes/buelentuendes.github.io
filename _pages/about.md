@@ -15,6 +15,8 @@ related to trustworthy AI, efficient deep learning and probabilistic machine lea
 
 **News**
 
+* **January 2026** My paper got accepted for the Journal of Medical Internet Research! 🎉
+
 * **October 2025** I will be joining EurIPS and will present at the ELLIS UnConference upcoming December. See you in Denmark! 🇩🇰️    
 
 * **February 2025** I will be joining the ELLIS Winter school on Foundation Models next month in Amsterdam 📚🇳🇱✨
