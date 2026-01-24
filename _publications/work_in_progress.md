@@ -9,19 +9,16 @@ location: "Amsterdam, the Netherlands"
 ---
 
 ---
-#### Electrocardiogram-Based Mental Stress Detection Amid Everyday Activities Using Machine Learning: Model Development and Validation Study
+### Electrocardiogram-Based Mental Stress Detection Amid Everyday Activities Using Machine Learning: Model Development and Validation Study
 **_Buelent Uendes_**, Alex Antonides, Sjors van de Ven, Denise Johanna van der Mee, Eco de Geus, and
 Mark Hoogendoorn  
 · *J Med Internet Res (fourthcoming)* · [Paper](https://github.com/BuelentUendes/Stress_Detection_ECG) · [Code](https://github.com/BuelentUendes/Stress_Detection_ECG)
 
-We evaluate ML-based mental stress detection using 127 participants across multiple conditions, testing:
-- discrimination against a composite no-stress baseline, 
-- generalization to unseen stressors and participants, 
-- robustness under reduced sampling rates and number of features for wearable settings.
+We evaluate ML-based mental stress detection using 127 participants across multiple conditions, testing (1) discrimination against a composite no-stress baseline, (2) generalization to unseen stressors and participants, and (3) robustness under reduced sampling rates and number of features for wearable settings.
 
 ---
 
-#### Start Smart: Leveraging Gradients For Enhancing Mask-based XAI Methods
+### Start Smart: Leveraging Gradients For Enhancing Mask-based XAI Methods
 **_Buelent Uendes_**, Shujian Yu, Mark Hoogendoorn  
 · *ICLR 2025* · [Paper](https://...) · [Code](https://github.com/...)
 
