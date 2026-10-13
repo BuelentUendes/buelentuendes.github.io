@@ -14,6 +14,8 @@ related to trustworthy AI, efficient deep learning and probabilistic machine lea
 ---
 
 **News**
+* **October 2026** I was awarded top reviewer of NeurIPS 2026 (8% of all reviewers). Happy to contribute to the ML community!
+
 * **August 2026** I attended UAI 2026 in Amsterdam! 🇳🇱
 
 * **January 2026** My paper got accepted for the Journal of Medical Internet Research! 🎉
